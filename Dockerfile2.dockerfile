@@ -1,4 +1,4 @@
 FROM nginx
-MIANTAINER Balaji
+MAINTAINER Balaji
 RUN touch test.txt
-CMD ["echo", "myfirst-image"]:wq!
+CMD ["echo", "myfirst-image"]
